@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-12 text-center">
             <div class="author">
-                酷导航 
+                代码与工具
             </div>
             <div class="author">
                 <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备18005659号-2</a>
