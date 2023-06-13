@@ -28,17 +28,17 @@
                                         <a class="nav-link @if(\Illuminate\Support\Facades\Request::path() == '/') active @endif " href="/">{{__('dujiaoka.home_page')}}
                                         </a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a class="nav-link @if(\Illuminate\Support\Facades\Request::url() == url('order-search')) active @endif" href="{{ url('order-search') }}">{{ __('dujiaoka.order_search') }}</a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                                 @if(\Illuminate\Support\Facades\Request::path() == '/')
-                                    <form class="d-flex">
+                                    <!-- <form class="d-flex">
                                         <input class="form-control form-control-sm me-sm-2" id="searchText" type="text" placeholder="{{ __('dujiaoka.search_goods_name') }}">
                                         <button class="btn btn-secondary my-2 my-sm-0" type="button" id="searchBtn">
                                             <i class="ali-icon">&#xe65c;</i>
                                         </button>
-                                    </form>
+                                    </form> -->
                                 @endif
                             </div>
                         </div>

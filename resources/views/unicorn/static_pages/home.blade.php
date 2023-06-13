@@ -36,7 +36,7 @@
                         <div class="separator"></div>
                         <p class="lead text-center">
                                 <span style="vertical-align: inherit;">
-                                    {{ __('dujiaoka.equipment.self_promotion') }}
+                                    <!-- {{ __('dujiaoka.equipment.self_promotion') }} -->
                                 </span>
                         </p>
                     </div>
