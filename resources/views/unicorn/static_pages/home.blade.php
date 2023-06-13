@@ -29,9 +29,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h3 class="text-center">
-                                <span style="vertical-align: inherit;">
+                                <!-- <span style="vertical-align: inherit;">
                                     {{ __('dujiaoka.equipment.what_do_you_need_today') }}
-                                </span>
+                                </span> -->
                         </h3>
                         <div class="separator"></div>
                         <p class="lead text-center">
